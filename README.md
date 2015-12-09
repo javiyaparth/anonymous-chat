@@ -1,3 +1,3 @@
 # anonymous-chat
-Web Chat Application using Django
+Web Chat Application using Django  
 Sonali Gupta
